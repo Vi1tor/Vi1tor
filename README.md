@@ -70,11 +70,21 @@ Criação e manutenção de páginas e sistemas web, aplicando boas práticas de
 
 ## 📊 Estatísticas do GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vi1tor&show_icons=true&theme=tokyonight)
+<div align="center">
+  
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Vi1tor&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vi1tor&layout=compact&langs_count=7&theme=tokyonight"/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vi1tor&layout=compact&theme=tokyonight)
+  <img height="170em" src="https://streak-stats.demolab.com?user=Vi1tor&theme=tokyonight"/>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Vi1tor&theme=tokyonight)
+</div>
+## 📊 Estatísticas do GitHub
+
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Vi1tor&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Vi1tor&layout=compact&theme=tokyonight)
+
 
 ---
 

@@ -79,12 +79,9 @@ https://github.com/Vi1tor/Siqueirapasseios
 → Página focada em conversão e apresentação profissional de serviços  
 
 ---
-
-## 📊 GitHub Stats  
-
-<div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Vi1tor&show_icons=true&theme=tokyonight"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vi1tor&layout=compact&theme=tokyonight"/>
+<div>
+![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
+</div>  
 </div>
 
 ---
